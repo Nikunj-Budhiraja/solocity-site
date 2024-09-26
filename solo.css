@@ -1,0 +1,60 @@
+body {
+    color: #27163D;
+    text-align: center;
+    background: linear-gradient(#a2dfff,#EFB0C9);
+
+
+}
+.header {
+    background-image: url("http://www.volunteerworkindia.org/wp-content/uploads/2017/01/Indiagate-1024x681.jpg");
+    background-size: cover;
+    margin: 30 auto;
+    
+    padding: 150px 0 100px 0;
+    height: 300px;
+    
+
+    
+    
+}
+h1 {
+    display: inline;
+    border: 2px solid #665DD8;
+    border-radius: 10px;
+    background: #a2dfff;
+}
+h2 {
+    background: #a2dfff;
+    margin: 15 zuto;
+}
+.describe {
+    
+    justify-content: space-around;
+    display: flex;
+    
+    margin-top: 30px;
+    
+}
+.photo {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px
+}
+#card {
+    display:flex;
+    margin: 50px ;
+    background: #ddebf8;
+    color: #2b2389;
+    padding: 20px;
+    justify-content: space-around;
+    font-style: italic;
+    
+    
+    
+    
+    
+}
+#nik-photo {
+    width: 150px;
+    height: 150px;
+}
